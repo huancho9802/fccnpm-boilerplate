@@ -1,2 +1,1 @@
-# repo
-general repo
+# Backend Challenges boilerplate - package.json
